@@ -1,8 +1,1 @@
-### Hi there 👋
-
-I am Anubhav Shukla
-
-💻I am a Btech student at VIT Bhopal with majors in Computer Science from Vellore Institute of Technology.
-
-
-😊I am an avid learner and always look forward to solve problems and learn new things. 
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>Hey! Nice to see you </h1>
