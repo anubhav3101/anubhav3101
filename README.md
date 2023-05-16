@@ -13,7 +13,7 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/anubha
 
 🙋‍♂️I find my technical interests in Problem Solving, Data Science, Technical writing and open source.
 
-<h4>TECH STACK</h4>
+<h4>TECH STACKS</h4>
 <code><img height="20" src="https://www.python.org/static/community_logos/python-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/pandas-python.png"></code>
 <code><img height="20" src="https://www.pngitem.com/pimgs/m/241-2413548_logo-anaconda-python-hd-png-download.png"></code>
