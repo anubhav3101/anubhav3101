@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>Hey! Nice to see you, Welcome to my GitHub! </h1>
 <h3 align= "center"><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>Hi! I am Anubhav Shukla, a passionate learner on Data Science & Machine Learning.</h3>
-<h4 align> Connect with me1 <img src="https://media.tenor.com/02ILjyFVXWQAAAAS/handshake.gif" width="30px"></h4>
+<h4 align> Connect with me <img src="https://media.tenor.com/02ILjyFVXWQAAAAS/handshake.gif" width="30px"></h4>
  
 [<img align="center" alt="LinkedIn" width="25px" 
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>](https://www.linkedin.com/in/anubhav007/)
