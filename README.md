@@ -13,7 +13,7 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/anubha
 
 🙋‍♂️I find my technical interests in Problem Solving, Data Science, Technical writing and open source.
 
-📚I am an avid learner and look forward to learn new things.
+📚I am an avid learner and look forward to learning new things.
 
 <h4>TECH STACKS</h4>
 <code><img height="20" src="https://www.python.org/static/community_logos/python-logo.png"></code>
