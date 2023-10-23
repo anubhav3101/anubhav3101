@@ -31,9 +31,6 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/anubha
 <h4>My Stats</h4>
 
  
-[Anubhav Shukla Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=anubhav3101&show_icons=true&include_all_commits=true&theme=radical)
+![Anubhav Shukla Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=anubhav3101&show_icons=true&include_all_commits=true&theme=radical)
 
-
-[Anubhav Shukla Github Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=anubhav3101&show_icons=true&include_all_commits=true&theme=radical)
-
-[GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anubhav3101&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)  
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anubhav3101&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)  
