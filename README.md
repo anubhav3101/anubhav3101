@@ -11,7 +11,7 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/anubha
 </div>
 💻I am a B.Tech student with majors in Computer Science from Vellore Institute of Technology and My area of interest is in Data Science & Machine Learning.
 
-🙋‍♂️I find my technical interests in Problem Solving, Data Science, Technical writing and open source.
+🙋‍♂️I find my technical interests in Problem Solving, Data Science, Technical writing, and open source.
 
 📚I am an avid learner and look forward to learning new things.
 
