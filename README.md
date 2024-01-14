@@ -9,7 +9,7 @@ src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail
 [<img align="center" alt="GitHub" width="25px" 
 src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/anubhav3101) 
 </div>
-💻I am a B.Tech student with majors in Computer Science from Vellore Institute of Technology and My area of interest is in Data Science & Machine Learning.
+💻I am a B.Tech student with major in Computer Science from Vellore Institute of Technology and My area of interest is in Data Science & Machine Learning.
 
 🙋‍♂️I find my technical interests in Problem Solving, Data Science, Technical writing, and open source.
 
