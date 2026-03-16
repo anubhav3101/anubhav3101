@@ -9,7 +9,7 @@ src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail
 [<img align="center" alt="GitHub" width="25px" 
 src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/anubhav3101) 
 </div>
-💻I am a Software engineer with hands-on experience in CI/CD automation, build engineering, backend development, and AI systems. Improved pipeline efficiency by 35%, automated workflows for 10+ microservices, built scalable APIs, and deployed machine learning systems..
+💻I am a Software engineer with hands-on experience in CI/CD automation, build engineering, backend development, and AI systems. Improved pipeline efficiency by 35%, automated workflows for 10+ microservices, built scalable APIs, and deployed machine learning systems.
 
 🙋‍♂️I find my technical interests in Python, Java, SQL, Flask, Django, REST APIs, CI/CD pipelines, build automation, artifact management, dependency optimization, DevOps practices, machine learning, NLP, LLM applications, model deployment, cloud integration, Git, Bash scripting, PowerShell.
 
