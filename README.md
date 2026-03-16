@@ -1,5 +1,5 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>Hey! Nice to see you, Welcome to my GitHub.</h1>
-<h3 align= "center"><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>Hi! I am Anubhav Shukla, a passionate learner of Data Science & Machine Learning.</h3>
+<h3 align= "center"><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>Hi! I am Anubhav Shukla, a passionate learner of Technologies.</h3>
 <h4 align> Connect with me <img src="https://media.tenor.com/02ILjyFVXWQAAAAS/handshake.gif" width="30px"></h4>
  
 [<img align="center" alt="LinkedIn" width="25px" 
@@ -9,9 +9,9 @@ src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail
 [<img align="center" alt="GitHub" width="25px" 
 src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/anubhav3101) 
 </div>
-💻I am a B.Tech student with major in Computer Science from Vellore Institute of Technology and My area of interest is in Data Science & Machine Learning.
+💻I am a Software engineer with hands-on experience in CI/CD automation, build engineering, backend development, and AI systems. Improved pipeline efficiency by 35%, automated workflows for 10+ microservices, built scalable APIs, and deployed machine learning systems..
 
-🙋‍♂️I find my technical interests in Problem Solving, Data Science, Technical writing, and open source.
+🙋‍♂️I find my technical interests in Python, Java, SQL, Flask, Django, REST APIs, CI/CD pipelines, build automation, artifact management, dependency optimization, DevOps practices, machine learning, NLP, LLM applications, model deployment, cloud integration, Git, Bash scripting, PowerShell.
 
 📚I am an avid learner and look forward to learning new things.
 
