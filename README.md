@@ -13,7 +13,7 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/anubha
 
 🙋‍♂️I find my technical interests in Python, Java, SQL, Flask, Django, REST APIs, CI/CD pipelines, build automation, artifact management, dependency optimization, DevOps practices, machine learning, NLP, LLM applications, model deployment, cloud integration, Git, Bash scripting, PowerShell.
 
-📚I am an avid learner and look forward to learning new things.
+📚I am an avid learner who enjoys exploring new technologies and continuously improving my skills. I actively seek opportunities to learn, build, and apply new ideas to solve real-world engineering problems.
 
 <h4>TECH STACKS</h4>
 <code><img height="20" src="https://www.python.org/static/community_logos/python-logo.png"></code>
